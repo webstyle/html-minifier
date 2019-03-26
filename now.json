@@ -1,0 +1,1 @@
+{"version":2,"name":"html-minifier","builds":[{"src":"index.html","use":"@now/html-minifier"}]}
