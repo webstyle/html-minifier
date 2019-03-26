@@ -1,3 +1,5 @@
+const fs = require('fs');
+
 module.exports = (req, res) => {
-  res.end("date from api");
+  res.end(__filename);
 }
